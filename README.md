@@ -9,9 +9,13 @@ to a google sheets document as provided in ToS.
 
 # Inputs/Global Variables Set by User:  
 CSV_FILE_NAME:  Name of the CSV file that is temporarily created in the R working Directory Prior to upload to Google Sheets
+
 GSHEET_TITLE:  The Google Sheets Title
+
 GSHEET_WSHEET_TITLE:  The Google Sheets Worksheet Title
+
 WEBSITE_DETAIL_URL:  The Detail Summary page called by the App Summary Page
+
 WEBSITE_SUMMARY_URL:  The Main Application Web Page that is Publicly Viewable.
 
 # Terms of Service
